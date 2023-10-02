@@ -1,6 +1,11 @@
 @import url();
 @import url();
 
+*(
+margin: 0px;
+padding: 0px;
+}
+
 .Menu {
   position: absolute;
   height: 30px;
